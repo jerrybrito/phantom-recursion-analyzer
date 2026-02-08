@@ -1,0 +1,2 @@
+# Requires: abstract-void
+# (Not available on PyPI)
